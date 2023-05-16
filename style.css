@@ -1,0 +1,71 @@
+html{
+background-color: rgb(246, 210, 216);
+}
+h2{
+    color: rgb(4, 84, 84);
+}
+img{
+    border-radius: 20px;
+    height: 200px;
+    border: solid;
+}
+p{
+    font-size: larger;
+}
+h4{
+    font-size: large;
+}
+hr{
+    border: solid;
+}
+#email{
+    color: rgb(44, 8, 78);
+    font: bold;
+}
+a{
+    padding-left: 8px;
+    font-size: larger;
+}
+#link{
+    color: rgb(234, 14, 14);
+    font: bold;
+}
+#a1{
+    color: rgb(55, 7, 133);
+    font: bolder;
+}ul{
+    font-size: larger;
+}
+li{
+    padding-top: 7px;
+}
+table{
+    border: solid;
+    height: 100px;
+    width: 500px;
+
+}
+tr{
+    border: solid;
+}
+
+td{
+    border: solid;
+}
+textarea{
+    border-radius: 5px;
+    border: solid;
+    margin-top: 15px;
+}
+input{
+    border: solid;
+}
+button{
+    color: rgb(26, 7, 129);
+    box-sizing: border-box;
+    border: (solid color black);
+    inline-size: 150px;
+    margin-top: 15px;
+    padding-top: 5px;
+    font-size: 25px;
+}
